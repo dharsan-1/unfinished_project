@@ -1,0 +1,4 @@
+.team_cart_con {
+  display: flex;
+  flex-wrap: wrap;
+}

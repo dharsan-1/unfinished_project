@@ -1,0 +1,21 @@
+.team-logo {
+  height: 60px;
+  width: 60px;
+  margin-right: 10px;
+}
+
+.ipl-logo-team-con {
+  display: flex;
+  flex-direction: row;
+  padding: 50px;
+  border-width: 0.5px;
+  border-color: white;
+  border-radius: 10px;
+  margin: 30px;
+  background-size: cover;
+  text-decoration: none;
+}
+.team-name {
+  color: white;
+  font-family: bree serif;
+}
